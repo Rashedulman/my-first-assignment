@@ -131,9 +131,12 @@ header section{
         color: #4E47FF;
         font-weight: bold;
         font-size: 80px;
+        margin-bottom: 0px;
     }
     .section2 p{
         color: #000000;
+        margin-top: 0px;
+
     }
         
     /* form styles */
@@ -210,4 +213,12 @@ header section{
         color: #8987A1;
         padding-right: 450px;
         padding-left: 450px;
+    }
+    button:hover{
+        cursor: pointer;
+        background-color: bisque;
+    }
+    .section5{
+        width: 1140px;
+        height: 340px;
     }
