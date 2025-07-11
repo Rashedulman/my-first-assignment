@@ -246,4 +246,34 @@ header section{
         border-radius: 10px;
         
     }
-    
+    .section6{
+        width: 1140px;
+        height: 690px;
+        margin: 130px 150px;
+        background-color: #FFFFFF;
+        text-align: center;
+
+    }
+    .section6 h1{
+        font-size: 50px;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+    .section6 button{
+        background-color: #4E47FF;
+        color: #FFFFFF;
+        width: 190px;
+        height: 48px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .section6 img{
+        border-radius: 48px;
+    }
+    .section1 img{
+       border-radius: 48px;
+    }
+    .section6 button:hover{cursor: pointer;
+        background-color: bisque;
+        
+    }
